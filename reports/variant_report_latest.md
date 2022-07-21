@@ -24,6 +24,7 @@ BA.2.75 does appear to circulate globally, albeit at such low share that it is n
 Countries with clusters of BA.2.75 include: UK, US, New Zealand, Japan, Indonesia, Germany, Israel.
 Known countries of importation are: Nepal/India (for some Japanese cases), France (for some Israeli)
 
+A summary of B.2.75 on CoVSpectrum showing sequences, growth advantage, and distribution:
 <https://cov-spectrum.org/explore/World/AllSamples/Past3M/variants?variantQuery=NextcladePangoLineage%3ABA.2.75>
 
 India has many states with different sampling practices so one needs to be cautious when interpreting aggregate growth advantages.
@@ -32,7 +33,7 @@ Nonetheless, the apparent growth advantage of BA.2.75 over BA.5\* at whole count
 
 ![picture 5](../images/a0891368449cb6070ab832591937ace96d6b3ef704f7a3fa17e902a1c33ea035.png)
 
-An up to date version of this graph can be found here: <https://cov-spectrum.org/explore/India/AllSamples/Past3M/variants?variantQuery=NextcladePangoLineage%3ABA.5*&variantQuery1=NextcladePangoLineage%3ABA.2.75&analysisMode=CompareToBaseline&>
+An up to date version of this graph can be found [here](https://cov-spectrum.org/explore/India/AllSamples/Past3M/variants?variantQuery=NextcladePangoLineage%3ABA.5*&variantQuery1=NextcladePangoLineage%3ABA.2.75&analysisMode=CompareToBaseline&)
 
 ### Selection of other interesting lineages
 
@@ -40,34 +41,49 @@ Many interesting BA.2 sublineages have appeared first in India. Here is a select
 
 #### BA.2.76 (S:R346T, S:Y248N)
 
+As of **DATE** there are approximately 1,800 sequences worldwide, and growth advantage is currently estimated at 36%. The first sample is from March.
+
+The Pango designation issue, with discussion about this lineage:
 <https://github.com/cov-lineages/pango-designation/issues/787>
 
+An up-to-date CoV-Spectrum summary of this lineage:
 <https://cov-spectrum.org/explore/World/AllSamples/Past3M/variants?pangoLineage=BA.2.76>
 
 #### BA.2.38.1 (S:N417T, S:S247N, S:Y248S, S:K444N)
 
+As of **DATE** there are approximately 192 sequences worldwide, and growth advantage is currently estimated at 47%. The first sample was detected mid-May.
+
+The Pango designation issue, with discussion about this lineage:
 <https://github.com/cov-lineages/pango-designation/issues/809>
 
+An up-to-date CoV-Spectrum summary of this lineage:
 <https://cov-spectrum.org/explore/World/AllSamples/Past3M/variants?pangoLineage=BA.2.38.1>
 
 #### BA.4.6 (S:346T)
 
+As of **DATE** there are approximately 2,500 sequences worldwide, and growth advantage is currently estimated at 66%. The first samples were detected at the end of April.
+
+An up-to-date CoV-Spectrum summary of this lineage:
 <https://cov-spectrum.org/explore/World/AllSamples/Past6M/variants?aaMutations=S%3AR346T%2CN%3A151S%2CORF7b%3AL11F&nucMutations=12160A%2CC8140T>
 
 ## Latest developments
 
 ### South African pair of complex recombinant clusters
 
-Two related clusters of complex Delta/BA.2 recombinants have appeared in Gauteng/Limpopo (bordering region).
+Two related clusters of complex Delta/BA.2 recombinants (C1 and C2) have appeared in Gauteng/Limpopo (bordering region).
 The Spikes are mostly identical, the rest of the genomes have multiple different breakpoints.
 
+The Pango designation issue, with discussion about this lineage:
 <https://github.com/cov-lineages/pango-designation/issues/844>
 
+**Figure showing the recombination patterns for C1 and C2 across the genome**
 ![SA recombinant chart](images/601c1cdf553df68314def793e5e51ed2a4100c4499ee49663052f7b2b02c53c1.png)
 (Tom Peacock, private communication)
 
+**Figure showing how mutations in C1 compare to other variants (??)**
 ![SA recombinant 1](images/715e20b73add43730e6ce86521a6891010c8897960d2ce3a99a1aa301c301dd9.png)
 
+**Figure showing how mutations in C1 compare to other variants (??)**
 ![SA recombinant 2](images/2527559ee3e9c91f092f7e42447cf27a5f1a336ae7b84cf8287f0ff62253f76c.png)
 (from <https://www.nicd.ac.za/wp-content/uploads/2022/07/Update-of-SA-sequencing-data-from-GISAID-15-July-2022.pdf>)
 
@@ -84,6 +100,7 @@ Spike shows the following changes compared to BA.2:
 - Additional S:R346K, convergent with BA.1.1
 - Additional S:K147E, S:N460K and reverted S:493 convergent with BA.2.75
 
+The Pango designation issue, with discussion about this lineage:
 <https://github.com/cov-lineages/pango-designation/issues/823>
 
 ## Trends
