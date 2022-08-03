@@ -22,7 +22,7 @@ BA.2.75 has 9 Spike amino acid substitutions relative to BA.2 (including reversi
 
 BA.2.75 does appear to circulate globally, albeit at such low share that it is not possible to say much about growth advantage outside of India.
 Countries with clusters of BA.2.75 include: UK, US, New Zealand, Japan, Indonesia, Germany, Israel.
-Known countries of importation are: Nepal/India (for some Japanese cases), France (for some Israeli)
+Countries that are known to have exported cases are: Nepal/India (for many Japanese airport surveillance cases), France (for some Israeli cases)
 
 <https://cov-spectrum.org/explore/World/AllSamples/Past3M/variants?variantQuery=NextcladePangoLineage%3ABA.2.75>
 
@@ -32,11 +32,11 @@ Nonetheless, the apparent growth advantage of BA.2.75 over BA.5\* at whole count
 
 ![picture 5](../images/a0891368449cb6070ab832591937ace96d6b3ef704f7a3fa17e902a1c33ea035.png)
 
-An up to date version of this graph can be found here: <https://cov-spectrum.org/explore/India/AllSamples/Past3M/variants?variantQuery=NextcladePangoLineage%3ABA.5*&variantQuery1=NextcladePangoLineage%3ABA.2.75&analysisMode=CompareToBaseline&>
+An up to date version of this graph can be found [here](https://cov-spectrum.org/explore/India/AllSamples/Past3M/variants?variantQuery=NextcladePangoLineage%3ABA.5*&variantQuery1=NextcladePangoLineage%3ABA.2.75&analysisMode=CompareToBaseline&)
 
 ### Selection of other interesting lineages
 
-Many interesting BA.2 sublineages have appeared first in India. Here is a selection of some to watch. That mutations are typical of BA.2 sublineages with (potential) growth advantages, in India and also globally.
+Many interesting BA.2 sublineages have appeared first in India. Here is a selection of some to watch. The mutations they carry are typical of BA.2 sublineages with (potential) growth advantages, in India and also globally.
 
 #### BA.2.76 (S:R346T, S:Y248N)
 
@@ -58,16 +58,20 @@ Many interesting BA.2 sublineages have appeared first in India. Here is a select
 
 ### South African pair of complex recombinant clusters
 
-Two related clusters of complex Delta/BA.2 recombinants have appeared in Gauteng/Limpopo (bordering region).
+Two related clusters of complex Delta/BA.2 recombinants (C1 with 5 sequences and C2 with 4 sequences) have appeared in Gauteng/Limpopo (bordering region).
 The Spikes are mostly identical, the rest of the genomes have multiple different breakpoints.
 
+The Pango designation issue, with discussion about this lineage:
 <https://github.com/cov-lineages/pango-designation/issues/844>
 
+**Figure showing the recombination patterns for C1 and C2 across the genome**
 ![SA recombinant chart](images/601c1cdf553df68314def793e5e51ed2a4100c4499ee49663052f7b2b02c53c1.png)
 (Tom Peacock, private communication)
 
+**Figure showing how mutations in C1 compare to other variants**
 ![SA recombinant 1](images/715e20b73add43730e6ce86521a6891010c8897960d2ce3a99a1aa301c301dd9.png)
 
+**Same figure but with different annotations**
 ![SA recombinant 2](images/2527559ee3e9c91f092f7e42447cf27a5f1a336ae7b84cf8287f0ff62253f76c.png)
 (from <https://www.nicd.ac.za/wp-content/uploads/2022/07/Update-of-SA-sequencing-data-from-GISAID-15-July-2022.pdf>)
 
